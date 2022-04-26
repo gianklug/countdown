@@ -1,5 +1,5 @@
 # countdown
-
+First bastelproject made in nuxt.js for displaying time to lesson end. Pls don't look at the mess :)
 ## Build Setup
 
 ```bash
